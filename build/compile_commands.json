@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/vaibhavgarg/Dev/wtfIsDbus/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/wtfIsDbus.dir/main.cpp.o -c /home/vaibhavgarg/Dev/wtfIsDbus/main.cpp",
+  "file": "/home/vaibhavgarg/Dev/wtfIsDbus/main.cpp"
+}
+]
