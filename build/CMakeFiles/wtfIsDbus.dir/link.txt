@@ -1,1 +1,1 @@
-/usr/bin/g++ -g -rdynamic CMakeFiles/wtfIsDbus.dir/main.cpp.o -o wtfIsDbus 
+/usr/bin/g++ -g -rdynamic CMakeFiles/wtfIsDbus.dir/main.cpp.o -o wtfIsDbus  -ldbus-1 

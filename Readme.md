@@ -10,3 +10,5 @@ D-Bus(Desktop bus):
 →  System-wide D-Bus: main instance for sys communication
 →  Session-specific D-Bus instances: Instance running for a partial user…
 
+Package Required: 
+-> libdbus-1-dev

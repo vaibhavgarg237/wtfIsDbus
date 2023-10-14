@@ -1,7 +1,7 @@
 [
 {
   "directory": "/home/vaibhavgarg/Dev/wtfIsDbus/build",
-  "command": "/usr/bin/g++   -g -o CMakeFiles/wtfIsDbus.dir/main.cpp.o -c /home/vaibhavgarg/Dev/wtfIsDbus/main.cpp",
+  "command": "/usr/bin/g++  -I/usr/include/dbus-1.0 -I/usr/lib/x86_64-linux-gnu/dbus-1.0/include -g -o CMakeFiles/wtfIsDbus.dir/main.cpp.o -c /home/vaibhavgarg/Dev/wtfIsDbus/main.cpp",
   "file": "/home/vaibhavgarg/Dev/wtfIsDbus/main.cpp"
 }
 ]
